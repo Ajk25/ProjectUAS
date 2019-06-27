@@ -216,7 +216,7 @@ body
    min-width: 700px;
    color: #31331F;
    background-color: #D7D8C0;
-   background-image: url('images/Bottom_texture.jpg');
+   background-image: url('image/Bottom_texture.jpg');
    background-repeat: repeat;
    background-attachment: fixed;
    background-position: top left;
@@ -225,7 +225,7 @@ body
 #art-page-background-middle-texture
 {
    position: relative;
-   background:darkblue ;
+   background:pink ;
    width:100%;
    min-width: 80%;
    min-height:100%;
@@ -445,7 +445,7 @@ div.art-headerobject
    top: 0;
    width: 358px;
    height: 150px;
-   background-image: url();
+   background-image: url("image/header.jpeg");
 }
 /* end HeaderObject */
 
@@ -658,7 +658,7 @@ ul.art-hmenu{
    position:absolute;
    width:100%;
    
-background: green;
+background: darkpink;
 }
 
 /* end Menu */
@@ -1028,7 +1028,7 @@ div.art-block img
 			
 .menu_content
 			{
-				background-image: url();
+				background-image: url("images/fullprint.jpg");
 				background-repeat: no-repeat;
 				background-position:top center;
 				margin: 5px;
@@ -1087,7 +1087,7 @@ div.art-block img
 
 .menu_content2
 			{
-				background-image: url();
+				background-image: url("images/textbox.jpg");
 				background-repeat: no-repeat;
 				background-position:top center;
 				margin: 5px;
@@ -1146,7 +1146,7 @@ div.art-block img
 
 		.menu_content3
 			{
-				background-image: url();
+				background-image: url("images/karakter.jpg");
 				background-repeat: no-repeat;
 				background-position:top center;
 				margin: 5px;
@@ -1202,7 +1202,7 @@ div.art-block img
 
 .menu_content4
 			{
-				background-image: url();
+				background-image: url("images/desain.jpg");
 				background-repeat: no-repeat;
 				background-position:top center;
 				margin: 5px;
