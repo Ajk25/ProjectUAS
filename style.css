@@ -438,14 +438,11 @@ div.art-header
 /* begin HeaderObject */
 div.art-headerobject
 {
-   display: block;
-   left: 100%;
-   margin-left: -358px;
-   position: absolute;
-   top: 0;
-   width: 358px;
-   height: 150px;
    background-image: url("header.jpeg");
+   width:100%;
+   height:100%;
+   background-repeat: no-repeat;
+   margin-left: 708px;
 }
 /* end HeaderObject */
 
